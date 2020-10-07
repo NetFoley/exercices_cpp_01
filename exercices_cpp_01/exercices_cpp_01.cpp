@@ -1,5 +1,5 @@
 // exercices_cpp_01.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Rendu de Valentin Fonderflick
 
 #include <iostream>
 #include "cPoint.h"
